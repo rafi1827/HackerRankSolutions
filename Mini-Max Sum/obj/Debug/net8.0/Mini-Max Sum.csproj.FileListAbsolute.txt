@@ -1,0 +1,16 @@
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\obj\Debug\net8.0\Mini-Max Sum.csproj.AssemblyReference.cache
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\obj\Debug\net8.0\Mini-Max Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\obj\Debug\net8.0\Mini-Max Sum.AssemblyInfoInputs.cache
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\obj\Debug\net8.0\Mini-Max Sum.AssemblyInfo.cs
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\obj\Debug\net8.0\Mini-Max Sum.csproj.CoreCompileInputs.cache
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\obj\Debug\net8.0\Mini-Max Sum.sourcelink.json
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\bin\Debug\net8.0\Mini-Max Sum.exe
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\bin\Debug\net8.0\Mini-Max Sum.deps.json
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\bin\Debug\net8.0\Mini-Max Sum.runtimeconfig.json
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\bin\Debug\net8.0\Mini-Max Sum.dll
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\bin\Debug\net8.0\Mini-Max Sum.pdb
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\obj\Debug\net8.0\Mini-Max Sum.dll
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\obj\Debug\net8.0\refint\Mini-Max Sum.dll
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\obj\Debug\net8.0\Mini-Max Sum.pdb
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\obj\Debug\net8.0\Mini-Max Sum.genruntimeconfig.cache
+C:\TechSkillzAcademy\HackerRankSolutions\Mini-Max Sum\obj\Debug\net8.0\ref\Mini-Max Sum.dll
