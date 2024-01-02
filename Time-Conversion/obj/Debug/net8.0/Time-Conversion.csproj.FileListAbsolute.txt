@@ -1,0 +1,16 @@
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\bin\Debug\net8.0\Time-Conversion.exe
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\bin\Debug\net8.0\Time-Conversion.deps.json
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\bin\Debug\net8.0\Time-Conversion.runtimeconfig.json
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\bin\Debug\net8.0\Time-Conversion.dll
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\bin\Debug\net8.0\Time-Conversion.pdb
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\obj\Debug\net8.0\Time-Conversion.csproj.AssemblyReference.cache
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\obj\Debug\net8.0\Time-Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\obj\Debug\net8.0\Time-Conversion.AssemblyInfoInputs.cache
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\obj\Debug\net8.0\Time-Conversion.AssemblyInfo.cs
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\obj\Debug\net8.0\Time-Conversion.csproj.CoreCompileInputs.cache
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\obj\Debug\net8.0\Time-Conversion.sourcelink.json
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\obj\Debug\net8.0\Time-Conversion.dll
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\obj\Debug\net8.0\refint\Time-Conversion.dll
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\obj\Debug\net8.0\Time-Conversion.pdb
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\obj\Debug\net8.0\Time-Conversion.genruntimeconfig.cache
+C:\TechSkillzAcademy\HackerRankSolutions\Time-Conversion\obj\Debug\net8.0\ref\Time-Conversion.dll
