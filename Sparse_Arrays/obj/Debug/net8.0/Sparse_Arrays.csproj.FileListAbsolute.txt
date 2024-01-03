@@ -1,0 +1,16 @@
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\obj\Debug\net8.0\Sparse_Arrays.csproj.AssemblyReference.cache
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\obj\Debug\net8.0\Sparse_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\obj\Debug\net8.0\Sparse_Arrays.AssemblyInfoInputs.cache
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\obj\Debug\net8.0\Sparse_Arrays.AssemblyInfo.cs
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\obj\Debug\net8.0\Sparse_Arrays.csproj.CoreCompileInputs.cache
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\obj\Debug\net8.0\Sparse_Arrays.sourcelink.json
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\bin\Debug\net8.0\Sparse_Arrays.exe
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\bin\Debug\net8.0\Sparse_Arrays.deps.json
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\bin\Debug\net8.0\Sparse_Arrays.runtimeconfig.json
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\bin\Debug\net8.0\Sparse_Arrays.dll
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\bin\Debug\net8.0\Sparse_Arrays.pdb
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\obj\Debug\net8.0\Sparse_Arrays.dll
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\obj\Debug\net8.0\refint\Sparse_Arrays.dll
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\obj\Debug\net8.0\Sparse_Arrays.pdb
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\obj\Debug\net8.0\Sparse_Arrays.genruntimeconfig.cache
+C:\TechSkillzAcademy\HackerRankSolutions\Sparse_Arrays\obj\Debug\net8.0\ref\Sparse_Arrays.dll
